@@ -1,0 +1,123 @@
+2021-02-20 00:20:42,472  INFO [main] Sample Project:29 - *********Browser Initialization************
+2021-02-20 00:20:48,700  INFO [main] Sample Project:53 - ********* Launching browser************
+2021-02-20 00:20:51,733  INFO [main] Sample Project:64 - ********* Selecting T-Shirt  ***************
+2021-02-20 00:20:56,626  INFO [main] Sample Project:72 - ********* Selecting Terms and Conditions  ***************
+2021-02-20 00:20:57,711  INFO [main] Sample Project:79 - ********* Pay by bank wire  ***************
+2021-02-20 00:21:00,203  INFO [main] Sample Project:85 - ********* Payment confirmation and reference no generated  ***************
+2021-02-20 00:21:01,274  INFO [main] Sample Project:92 - ********* Order history page ***************
+2021-02-20 00:21:02,246  INFO [main] Sample Project:99 - ********* Comparing the order should reflect the generated one ***************
+2021-02-20 00:21:03,021  INFO [main] Sample Project:29 - *********Browser Initialization************
+2021-02-20 00:21:08,713  INFO [main] Sample Project:53 - ********* Launching browser************
+2021-02-20 00:21:11,540  INFO [main] Sample Project:105 - ********* personal Information ***************
+2021-02-20 00:21:12,731  INFO [main] Sample Project:112 - ********* Update the last name ***************
+2021-02-20 00:21:13,614  INFO [main] Sample Project:119 - ********* Verify the success message ***************
+2021-07-17 07:46:09,887  INFO [main] Sample Project:29 - *********Browser Initialization************
+2021-07-17 07:46:17,061  INFO [main] Sample Project:53 - ********* Launching browser************
+2021-07-17 07:46:19,408  INFO [main] Sample Project:64 - ********* Selecting T-Shirt  ***************
+2021-07-17 07:46:25,065  INFO [main] Sample Project:29 - *********Browser Initialization************
+2021-07-17 07:46:31,349  INFO [main] Sample Project:53 - ********* Launching browser************
+2021-07-17 07:46:35,147  INFO [main] Sample Project:105 - ********* personal Information ***************
+2021-07-17 07:48:11,242  INFO [main] Sample Project:29 - *********Browser Initialization************
+2021-07-17 07:48:18,189  INFO [main] Sample Project:53 - ********* Launching browser************
+2021-07-17 07:48:20,372  INFO [main] Sample Project:64 - ********* Selecting T-Shirt  ***************
+2021-07-17 07:48:26,324  INFO [main] Sample Project:29 - *********Browser Initialization************
+2021-07-17 07:48:32,182  INFO [main] Sample Project:53 - ********* Launching browser************
+2021-07-17 07:48:34,648  INFO [main] Sample Project:105 - ********* personal Information ***************
+2021-07-17 08:34:34,140  INFO [main] Sample Project:33 - *********Browser Initialization************
+2021-07-17 08:34:37,949  INFO [main] Sample Project:59 - ********* Launching browser************
+2021-07-17 08:37:17,812  INFO [main] Sample Project:33 - *********Browser Initialization************
+2021-07-17 08:37:21,590  INFO [main] Sample Project:59 - ********* Launching browser************
+2021-07-17 16:38:06,334  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:38:10,322  INFO [main] Sample Project:61 - ********* Launching browser************
+2021-07-17 16:40:08,963  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:40:12,863  INFO [main] Sample Project:61 - ********* Launching browser************
+2021-07-17 16:44:43,600  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:44:47,478  INFO [main] Sample Project:61 - ********* Launching browser************
+2021-07-17 16:46:40,377  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:46:43,734  INFO [main] Sample Project:61 - ********* Launching browser************
+2021-07-17 16:50:28,223  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:53:43,801  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:53:45,534  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 16:54:45,128  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:54:46,884  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 16:56:08,877  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 16:56:10,602  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:02:18,122  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:02:22,011  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:02:30,296  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:02:34,109  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:08:01,941  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:08:05,330  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:10:59,441  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:11:03,305  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:11:36,675  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:11:39,961  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:12:46,793  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:12:50,687  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:20:17,434  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:20:21,355  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:22:18,091  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:22:22,071  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:26:22,118  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:26:25,490  INFO [main] Sample Project:62 - ********* Launching browser************
+2021-07-17 17:45:33,925  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:45:37,789  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 17:48:17,297  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 17:48:21,140  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 18:29:18,289  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 18:29:22,160  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:07:37,653  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:07:41,511  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:10:21,984  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:10:25,820  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:20:40,120  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:20:44,597  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:22:35,851  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:22:39,231  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:23:39,483  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:23:42,934  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:27:04,212  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:27:07,473  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:40:12,713  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:40:16,175  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:50:22,077  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:50:25,501  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:52:34,617  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:52:37,894  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 19:57:09,878  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 19:57:13,174  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:03:42,620  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:03:46,545  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:06:48,284  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:06:52,663  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:11:58,768  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:12:02,122  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:23:05,774  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:23:09,683  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:24:28,698  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:24:32,623  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:25:36,339  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:25:40,227  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 20:38:29,540  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 20:38:32,876  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 21:08:59,122  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 21:09:03,003  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 21:18:48,887  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-17 21:18:52,770  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-17 23:54:57,523  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:05:02,331  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:05:06,778  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:34:58,334  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:35:02,849  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:45:30,167  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:45:34,478  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:47:32,701  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:47:36,850  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:47:56,791  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:48:01,114  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:48:17,986  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:48:22,108  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:48:39,725  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:48:43,855  INFO [main] Sample Project:57 - ********* Launching browser************
+2021-07-18 00:49:45,378  INFO [main] Sample Project:35 - *********Browser Initialization************
+2021-07-18 00:49:49,484  INFO [main] Sample Project:57 - ********* Launching browser************
